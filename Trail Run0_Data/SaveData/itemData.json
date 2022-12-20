@@ -1,0 +1,39 @@
+{
+    "items": [
+        {
+            "title": "ball1",
+            "isPurchased": false,
+            "isSelected": false
+        },
+        {
+            "title": "ball2",
+            "isPurchased": false,
+            "isSelected": false
+        },
+        {
+            "title": "ball3",
+            "isPurchased": false,
+            "isSelected": false
+        },
+        {
+            "title": "ball4",
+            "isPurchased": false,
+            "isSelected": false
+        },
+        {
+            "title": "Trail1",
+            "isPurchased": true,
+            "isSelected": true
+        },
+        {
+            "title": "Trail2",
+            "isPurchased": false,
+            "isSelected": false
+        },
+        {
+            "title": "Trail3",
+            "isPurchased": false,
+            "isSelected": false
+        }
+    ]
+}
